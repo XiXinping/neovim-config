@@ -9,3 +9,5 @@ My neovim config - designed to be somewhat like an IDE. It's very much work in p
 - Bufferline.nvim
 - `hjkl` mapped to `jkl;`
 
+## Screenshot
+![A screenshot of the config in action](/neovim-config.png)
